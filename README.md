@@ -1,4 +1,5 @@
 # Maverick-Project
+
 ## Table of contents
 - [Summary of the Business problem and Project Objective](#Summary-of-the-Business-problem-and-Project-objective)
 - [Solution to the Business Problem](#Solution-to-the-Business-Problem)
